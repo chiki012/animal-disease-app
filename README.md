@@ -1,2 +1,2 @@
 # animal-disease-app
- Here you can find the disease related to the animal and the symptoms also 
+This App includes information about animal-related diseases as well as their symptoms.
